@@ -27,4 +27,4 @@ ____
 • Tr : Başarılı/Başarısız giriş denemeleri login_info.db dosyasında tutuluyor.  
 ____
 
-QuartzzDev z3
+QuartzzDev <3 - Quartzz
